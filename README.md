@@ -1,2 +1,2 @@
 # helloworldtech1024.github.io
-组织静态展示页面
+Hello World Technology静态展示页面
